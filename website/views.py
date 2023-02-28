@@ -5,3 +5,10 @@ def http_test(request):
 
 def json_test(request):
     return JsonResponse({'Ali':'Bakhi'})
+
+def index_view(request):
+    return(render(request,'index.html'))
+
+def my(request):
+    return(render(request,'oh/my.html'))
+
