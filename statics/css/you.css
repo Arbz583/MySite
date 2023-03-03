@@ -1,0 +1,6 @@
+h1{
+    color:rgb(9, 8, 45);
+    font-size: 200;
+    text-transform: uppercase;      /*also lowercase or capitalize*/
+    text-shadow: 3px 2px 5px rgb(200, 79, 22);
+} 
